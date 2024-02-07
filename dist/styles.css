@@ -1,0 +1,21 @@
+main{
+    padding: 1rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -49%);
+    border: 1px dashed black;
+}
+h1{
+    display: none;
+}
+.resultados{
+    display: none;
+}
+
+#showUsers #showReps{
+    position: relative;
+    left: 25%;
+    margin-top: 1rem;
+    padding: 1rem;
+}
